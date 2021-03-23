@@ -19,7 +19,7 @@ pesos0 = 2 * np.random.random((2,3)) - 1
 
 pesos1 = 2 * np.random.random((3,1)) - 1
 
-epocas = 1000000 #testar com outros valores (10³, 10⁴,ate 10⁶)
+epocas = 100000 #testar com outros valores (10³, 10⁴,ate 10⁶)
 taxaAprendizagem = 0.6   #testar outros valores para ver a conversão mais rápida
 momento = 1
 
